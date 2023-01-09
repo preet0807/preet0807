@@ -1,4 +1,4 @@
-### Hi I'm a dumbass <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" width="4%"/>
+### <center><h1> Hi I'm Sunpreet <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" width="4%"/> </h1> </center>
 
 <!--
 **preet0807/preet0807** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
